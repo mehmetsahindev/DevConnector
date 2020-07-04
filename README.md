@@ -1,2 +1,0 @@
-# DevConnector
-MERN Stack
